@@ -1,0 +1,6 @@
+/Users/kaiwen/UW/3A/Gitlab/cs349_assignments/a2/./src/lib/list_active.png
+2
+/Users/kaiwen/UW/3A/Gitlab/cs349_assignments/a2/./src/lib/list_inactive.png
+3
+/Users/kaiwen/UW/3A/Gitlab/cs349_assignments/a2/./src/lib/star_active.png
+4
