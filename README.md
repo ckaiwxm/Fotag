@@ -26,6 +26,9 @@ It allows users to upload images, delete images, rate images and filter images b
 ### View Mode:
 - Grid view and list view are available to the gallery. Click on <img src="./demo/grid.png" width="45"> or <img src="./demo/list.png" width="40"> to switch the mode suitable for you.
 
+<br/>
+<br/>
+
 _Hope you enjoy playing with this application ^-^_
 
 &copy; Kaiwen Chen k2999che@edu.uwaterloo.ca
